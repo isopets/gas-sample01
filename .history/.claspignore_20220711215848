@@ -1,0 +1,6 @@
+**/**
+!*.js
+!src/*.ts
+src/*.test.ts
+!appsscript.json
+coverage/*
